@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoury Gupta</h1>
-<h3 align="center">A passionate frontend developer from New Delhi, India</h3>
+<h3 align="center">A coding enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/66388388?v=4">
 
