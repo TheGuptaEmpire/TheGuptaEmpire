@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/66388388?v=4">
 
-<p align="left"> <a href="https://instagram.com/shourygupta24" target="blank"><img src[="https://img.shields.io/instagram/follow/shourygupta24?logo=instagram&style=for-the-badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="shourygupta24" /></a> </p>
+<p align="left"> <a href="https://instagram.com/shourygupta24" target="blank"><img src="https://img.shields.io/instagram/follow/shourygupta24?logo=instagram&style=for-the-badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="shourygupta24" /></a> </p>
 
 
 
