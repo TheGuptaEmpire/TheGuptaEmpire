@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/66388388?v=4">
 
-<p align="left"> <a href="https://twitter.com/theguptaempire4" target="blank"><img src="https://img.shields.io/twitter/follow/theguptaempire4?logo=twitter&style=for-the-badge" alt="theguptaempire4" /></a> </p>
+<p align="left"> <a href="https://instagram.com/shourygupta24" target="blank"><img src="https://img.shields.io/twitter/follow/theguptaempire4?logo=twitter&style=for-the-badge" alt="theguptaempire4" /></a> </p>
 
 
 
