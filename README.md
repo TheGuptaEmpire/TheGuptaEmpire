@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Mern Stack Development**
 
 - 👨‍💻 All of my projects are available on [github](github)
-
+- Currently working on iNotebook
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **shourygupta24@gmail.com**
