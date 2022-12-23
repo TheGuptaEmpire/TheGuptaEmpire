@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shourygupta24@gmail.com**
 
-- ⚡ Fun fact **I think I can do better that I do**
+- ⚡ Fun fact **I want to be the great Gupta**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
