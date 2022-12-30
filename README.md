@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shourygupta24@gmail.com**
 
-- ⚡ Fun fact ** I like to be named as The Great Gupta**
+- ⚡ Fun fact ** I love to be named as The Great Gupta**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theguptaempire&show_icons=true&locale=en&layout=compact" alt="theguptaempire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theguptaempire&show_icons=true&locale=en" alt="theguptaempire" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theguptaempire&" alt="theguptaempire" /></p>
