@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shourygupta24@gmail.com**
 
-- ⚡ Fun fact ** I love to be named as The Great Gupta**
+- ⚡ Fun fact ** I love to be called as "The Great Gupta"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
