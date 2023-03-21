@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, Myself Shoury Gupta</h1>
-<h3 align="center">A learning enthusiast</h3>
+<h3 align="center">A Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **C++**
 
