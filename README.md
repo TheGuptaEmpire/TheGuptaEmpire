@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- ⚡  I’m currently working on **AdxRoute Website**
+- ⚡  I’m currently working on **Angular Practice Project**
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Redux, C**
 
