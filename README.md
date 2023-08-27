@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, Myself Shoury Gupta</h1>
 <h3 align="center">A Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Angular JS**
 
 - ⚡  I’m currently working on **Angular Practice Project**
 
