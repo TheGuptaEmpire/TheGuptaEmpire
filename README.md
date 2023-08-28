@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Redux, C**
 
-- 📫 How to reach me **shourygupta24@gmail.com**
+- 📫 How to reach me **http://shourygupta.com/**
  
 - 😯 Fun fact **I love to , "just lie in my bed and step into my coding world"**
 
