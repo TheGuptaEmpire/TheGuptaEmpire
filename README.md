@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- ⚡  I’m currently working on **Open Source Projects**
+- ⚡  I’m currently working on **Open Source Projects on Github**
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Redux, C**
 
