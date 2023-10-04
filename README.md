@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://shourygupta.com/**
  
-- 😯 Fun fact **I love to , "just lie in my bed and step into my coding world"**
+- 😯 Fun fact **I love to , "just lie on my bed and step into my coding world"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
