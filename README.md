@@ -5,7 +5,7 @@
 
 - ⚡  I’m currently working on **Open Source Projects on Github**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Redux, C**
+- 💬 Ask me about **Html, CSS, JavaScript, React, Redux, C, Angular**
 
 - 📫 How to reach me **https://shourygupta.com/**
  
