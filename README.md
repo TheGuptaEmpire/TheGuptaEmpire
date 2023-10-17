@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shourygupta.com/](https://shourygupta.com/)
 
-- 💬 Ask me about **Html, CSS, JS, React, C, Angular, OOPs in C++**
+- 💬 Ask me about **Html, CSS, JS, React, C, Angular, C++**
 
 - 📫 How to reach me **shourygupta24@gmail.com**
 
