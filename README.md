@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Projects For My Portfolio**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I am going to learn **Python**
 
 - 👨‍💻 All of my projects are available at [https://shourygupta.com/](https://shourygupta.com/)
 
