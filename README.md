@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shourygupta24@gmail.com**
 
-- ⚡ Fun fact **I love to, "just lie on my bed and get lost into my coding world"**
+- ⚡ Fun fact **"Immerse myself in a world of code, ideas taking shape and problems getting solved"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
