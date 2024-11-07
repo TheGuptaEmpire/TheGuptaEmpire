@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/theguptaempire4" target="blank"><img src="https://img.shields.io/twitter/follow/theguptaempire4?logo=twitter&style=for-the-badge" alt="theguptaempire4" /></a> </p>
 
-- 🔭 I’m currently working on **React Version of my Portfolio website**
+- 🔭 I’m currently working on my **Python programming skills**
 
-- 🌱 I am going to learn **Python**
+- 🌱 I am going to learn **DSA**
 
 - 👨‍💻 All of my projects are available at [https://shourygupta.com/](https://shourygupta.com/)
 
